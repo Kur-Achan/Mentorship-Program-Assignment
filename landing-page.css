@@ -1,0 +1,54 @@
+.topnav{
+    display: flex;
+    margin-left: 25%;
+    gap: 5%;
+}
+#pic{
+  background-color: turquoise; 
+  color: aliceblue; 
+  padding: 15px 40px;
+  font-size: medium;
+}
+#achieve{
+    color: aliceblue;
+    background-color: blue;
+    padding: 15px 40px;
+    font-size: medium;
+
+}
+#goals{
+    color:beige;
+    background-color:teal;
+    padding: 15px 40px;
+    font-size: medium;
+
+
+}
+#todo{
+color: aliceblue;
+background-color: blue;
+padding: 15px 40px;
+    font-size: medium;
+
+}
+.landing{
+    text-align: center;
+    padding-top: 10%;
+    margin-right: 25%;
+}
+#explore{
+    color: hotpink;
+    font-size: x-large;
+    
+}
+#welcome{
+    color: skyblue;
+    font-size: xx-large;
+    
+}
+#click{
+    border-radius: 12px;
+    background-color: cyan;
+    margin-left: 25%;
+    padding: 12px 20px;   
+}

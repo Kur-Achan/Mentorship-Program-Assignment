@@ -1,0 +1,100 @@
+
+
+.navbar3{
+    display: flex;
+    margin-left: 25%;
+    gap: 5%;
+    margin-bottom: 20%;
+
+    
+}
+#pic{
+  background-color: turquoise; 
+  color: aliceblue; 
+  gap: 5%;
+  padding: 15px 40px;
+  font-size: medium;
+}
+#achieve{
+    color: aliceblue;
+    background-color: blue;
+    padding: 15px 40px;
+  font-size: medium;
+}
+#goal{
+    color:beige;
+    background-color:teal;
+    padding: 15px 40px;
+  font-size: medium;
+}
+#todo{
+    color: aliceblue;
+    background-color: blue;
+    padding: 15px 40px;
+  font-size: medium;
+}
+#obj1{
+border-radius: 12px;
+padding: 10px 30px;
+width: 50%;
+    }
+#obj2{
+border-radius: 12px;
+padding: 10px 30px;
+width: 50%;
+ }
+ #obj3{
+    border-radius: 12px;
+    padding: 10px 30px;
+    width: 50%;
+     }
+ #obj4{
+ border-radius: 12px;
+padding: 10px 30px;
+width: 50%;
+ }
+ #obj5{
+border-radius: 12px;
+ padding: 10px 30px;
+width: 50%;
+
+ }
+
+#obj6{
+border-radius: 12px;
+padding: 10px 30px;
+width: 50%;
+                
+}
+ #obj7{
+ border-radius: 12px;
+padding: 10px 30px;
+ width: 50%;
+ }
+
+#obj8{
+border-radius: 12px;
+padding: 10px 30px;
+width: 50%;
+}
+.objectives{
+    margin-bottom: 45%;
+    display: flex;
+    margin-left: 20%;
+}
+
+.short{
+    width: 60%;
+    
+}
+.long{
+    width: 60%;
+    
+} 
+#start{
+ background-color: cyan;
+ border-radius: 12px;
+ padding: 12px 30px;
+margin-top: 20%;
+}
+ 

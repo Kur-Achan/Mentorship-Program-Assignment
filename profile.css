@@ -1,0 +1,112 @@
+
+.navbar1{
+    display: flex;
+    margin-left: 25%;
+    gap: 5%;
+    padding-bottom: 5%;
+    margin-bottom: 5%;
+}
+#pic{
+  background-color: turquoise; 
+  color: aliceblue; 
+  padding: 15px 40px;
+    font-size: medium;
+
+}
+#achieve{
+    color: aliceblue;
+    background-color: blue;
+    padding: 15px 40px;
+    font-size: medium;
+
+}
+#goals{
+    color:beige;
+    background-color:teal;
+    padding: 15px 40px;
+    font-size: medium;
+
+}
+#todo{
+color: aliceblue;
+background-color: blue;
+padding: 15px 40px;
+    font-size: medium;
+
+}
+.details{
+    text-align: center;
+    gap: 5%;
+    font-size: x-large;
+}
+#picture{
+    padding-top: 5%;
+    width: 200px;
+}
+#name{
+
+border-radius: 12px;
+ padding: 10px 30px;
+width: 100%;
+ }   
+ #name{
+
+    border-radius: 12px;
+     padding: 10px 30px;
+    width: 100%;
+     }   
+     #profession{
+
+        border-radius: 12px;
+         padding: 10px 30px;
+        width: 100%;
+         }  
+         #company{
+
+            border-radius: 12px;
+             padding: 10px 30px;
+            width: 100%;
+             }   
+             
+         #nationality{
+
+            border-radius: 12px;
+             padding: 10px 30px;
+            width: 100%;
+             }   
+             #interests{
+
+ border-radius: 12px;
+padding: 10px 30px;
+ width: 100%;
+ }
+ #click{
+ border-radius: 12px;
+    background-color: cyan;
+    margin-left: 25%;
+    padding: 12px 20px; 
+ } 
+ #mentor{
+    margin-top: 8%;
+    margin-left: 20%;
+ 
+}@media screen and (min-width:375px) and (max-width: 768px){
+ .navbar1{
+    flex-direction: column;
+ } 
+ .details{
+    flex-direction: column;
+
+ }
+
+}
+
+
+
+@media screen and (min-width:380px) and (max-width: 968px) {
+    .navbar1{
+flex-direction: column;
+    }
+}
+
+                                        

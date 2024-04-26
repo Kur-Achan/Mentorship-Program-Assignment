@@ -1,0 +1,63 @@
+
+
+.navbar7{
+    display: flex;
+    margin-right: 25%;
+    gap: 5%;
+}
+#pro{
+  background-color: turquoise; 
+  color: aliceblue; 
+  padding: 15px 40px;
+  font-size: medium;
+}
+#achieve{
+    color: aliceblue;
+    background-color: blue;
+    padding: 15px 40px;
+  font-size: medium;
+
+}
+#goals{
+    color:beige;
+    background-color:teal;
+    padding: 15px 40px;
+  font-size: medium;
+}
+#todo{
+color: aliceblue;
+background-color: blue;
+padding: 15px 40px;
+  font-size: medium;
+}
+.checks{
+    padding-top: 15%;
+    margin-left: 15%;
+
+}
+#box1{
+    border-radius: 12px;
+    padding: 10px 30px;
+    width: 30%;
+}
+#box2{
+    border-radius: 12px;
+    padding: 10px 30px;
+    width: 30%;
+}
+#box3{
+    border-radius: 12px;
+    padding: 10px 30px;
+    width: 30%;
+}
+#box4{
+    border-radius: 12px;
+    padding: 10px 30px;
+    width: 30%;
+}
+#click{
+    border-radius: 12px;
+    background-color: cyan;
+    margin-left: 25%;
+    padding: 12px 20px;
+}

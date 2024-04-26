@@ -1,0 +1,67 @@
+.account{
+  
+     border: solid 0px;
+    width: 50%;
+   padding-left:40%;
+ justify-content: center; 
+
+  }
+  .input{
+  
+   width: 50%;
+   border-radius: 5px;
+   border:solid 1px;
+   margin-left: 80px;
+}
+input label{
+  margin-left: 80px;
+  justify-content: center;
+}
+
+
+#pin1{
+    border-radius: 12px;
+    padding: 10px 30px;
+    width: 50%;
+}
+#pin2{
+  border-radius: 12px;
+  padding: 10px 30px;
+  width: 50%;
+}
+#pin3{
+  border-radius: 12px;
+  padding: 10px 30px;
+  width: 50%;
+}
+#pin4{
+  border-radius: 12px;
+  padding: 10px 30px;
+  width: 50%;
+}
+#pin5{
+  border-radius: 12px;
+  padding: 10px 30px;
+  width: 50%;
+}
+#pin6{
+  border-radius: 12px;
+  padding: 10px 30px;
+  width: 50%;
+}
+#pin7{
+  border-radius: 12px;
+  padding: 10px 30px;
+  width: 50%;
+}
+#pin1{
+  border-radius: 12px;
+  padding: 10px 30px;
+  width: 50%;
+}
+#btn2{
+  background-color: blue;
+  color: aliceblue;
+  margin-top: 12px;
+  margin-left: 15%;
+}
