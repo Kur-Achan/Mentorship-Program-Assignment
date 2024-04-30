@@ -1,8 +1,9 @@
 
-.menu{
-margin-left: 15%; 
-gap: 15%;   
+.nav{
+margin-left: 15%;
+gap: 15%;
 }
+
 #pic{
   background-color: turquoise; 
   color: aliceblue; 
@@ -50,8 +51,7 @@ padding: 15px 40px;
     text-decoration: none;  
 }
 #logo{
-    width: 100px;
-    margin-left: -340%;
+width: 5%;
 }
 #lady{
     flex-direction: column;
