@@ -33,22 +33,32 @@
     padding: 10px 20px;
     width: 10%;
     text-align: center;
-    color: aliceblue;
-   margin-left: 50%;
+    color: black;
+   margin-left: 40%;
+   text-decoration: none;
+   margin-top: -25%;
    
+}
+#welcome{
+    font-size: xx-large;
 }
  
 .home{
     margin-left: 35%;
-    font-size: xx-large;
-    
+    font-size: xx-large; 
+}
+#mentee{
+width: 460px;
+margin-top: -20%;
 }
 #title{
     color: hotpink;
 }
 #logo{
  margin-bottom: 10%;
- width: 52px;   
+ width: 100px;
+ height: 100px;
+
 }@media screen and (min-width:375px) and (max-width: 768px){
     .navbar{
        flex-direction: column;

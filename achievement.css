@@ -1,14 +1,93 @@
 
 
-.navbar7{
+ .navbar7{
     display: flex;
     margin-right: 25%;
-    gap: 5%;
-}
+    text-decoration: none;
+    gap: 10%;
+} 
+
 #pro{
   background-color: turquoise; 
   color: aliceblue; 
   padding: 15px 40px;
+  font-size: medium;
+}
+#achieve{
+    color: aliceblue;
+    background-color: blue;
+    padding: 15px 40px;
+  font-size: medium;
+
+}
+#goals{
+    color:beige;
+    background-color:teal;
+    padding: 15px 40px;
+  font-size: medium;
+}
+#todo{
+color: aliceblue;
+background-color: blue;
+padding: 15px 40px;
+  font-size: medium;
+}
+.checks{
+    padding-top: 15%;
+    margin-left: 35%;
+
+}
+#box1{
+    border-radius: 12px;
+    padding: 10px 30px;
+    width: 30%;
+}
+#box2{
+    border-radius: 12px;
+    padding: 10px 30px;
+    width: 30%;
+}
+#box3{
+    border-radius: 12px;
+    padding: 10px 30px;
+    width: 30%;
+}
+#box4{
+    border-radius: 12px;
+    padding: 10px 30px;
+    width: 30%;
+}
+#click{
+    border-radius: 12px;
+    background-color: cyan;
+    margin-left: 45%;
+    padding: 12px 20px;
+    text-decoration: none;
+}
+#logo{
+  width: 100px;
+}
+@media screen and (min-width: 200px) and (max-width:600px) {
+  .navbar7 {
+  flex-direction: column; 
+  text-decoration: none;   
+  }
+  #logo{
+width: 100px;
+  } 
+.navbar7{
+     display: flex;
+    flex-wrap: wrap;
+    margin-right: 15%;
+    gap: 10%;
+} 
+.li a{
+display: block;
+}
+#pro{
+  background-color: turquoise; 
+  color: aliceblue; 
+  padding: 10px 10px;
   font-size: medium;
 }
 #achieve{
@@ -58,6 +137,85 @@ padding: 15px 40px;
 #click{
     border-radius: 12px;
     background-color: cyan;
-    margin-left: 25%;
+    margin-left: 45%;
     padding: 12px 20px;
+    text-decoration: none;
 }
+#logo{
+  width: 100px;
+}
+  }
+  @media screen and (min-width: 701px)and (max-width:990px) {
+    .checks{
+      width: 100px;  
+  }
+  .navbar7{
+    display: flex;
+    margin-right: 25%;
+    text-decoration: none;
+    gap: 10%;
+} 
+
+#pro{
+  background-color: turquoise; 
+  color: aliceblue; 
+  padding: 15px 40px;
+  font-size: medium;
+}
+#achieve{
+    color: aliceblue;
+    background-color: blue;
+    padding: 15px 40px;
+  font-size: medium;
+
+}
+#goals{
+    color:beige;
+    background-color:teal;
+    padding: 15px 40px;
+  font-size: medium;
+}
+#todo{
+color: aliceblue;
+background-color: blue;
+padding: 15px 40px;
+  font-size: medium;
+}
+.checks{
+    padding-top: 15%;
+    margin-left: 35%;
+
+}
+#box1{
+    border-radius: 12px;
+    padding: 10px 30px;
+    width: 30%;
+}
+#box2{
+    border-radius: 12px;
+    padding: 10px 30px;
+    width: 30%;
+}
+#box3{
+    border-radius: 12px;
+    padding: 10px 30px;
+    width: 30%;
+}
+#box4{
+    border-radius: 12px;
+    padding: 10px 30px;
+    width: 30%;
+}
+#click{
+    border-radius: 12px;
+    background-color: cyan;
+    margin-left: 45%;
+    padding: 12px 20px;
+    text-decoration: none;
+}
+#logo{
+  width: 100px;
+}
+}
+  
+   

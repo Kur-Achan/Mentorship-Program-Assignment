@@ -1,22 +1,32 @@
 .account{
   
      border: solid 0px;
-    width: 50%;
-   padding-left:40%;
+    width: 40%;
+   padding-left:20%;
  justify-content: center; 
+ align-items: center;
+ margin-left: 5%;
+ margin-top: 5%;
 
   }
-  .input{
+  .form{
+    margin-left: 18%;
+    
+  }
+   .input{
   
    width: 50%;
    border-radius: 5px;
    border:solid 1px;
-   margin-left: 80px;
+   padding: 0px 35%;
+   margin-left: 5px;
+   
 }
-input label{
+/* input label{
   margin-left: 80px;
   justify-content: center;
-}
+  align-items: center;
+} */
 
 
 #pin1{
@@ -61,7 +71,8 @@ input label{
 }
 #btn2{
   background-color: blue;
-  color: aliceblue;
-  margin-top: 12px;
-  margin-left: 15%;
+  border-radius: 12px;
+  color: white;
+  margin-top: 5%;
+  margin-left: 10%;
 }

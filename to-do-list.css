@@ -2,7 +2,7 @@
 .navbar6{
     display: flex;
     margin-right: 25%;
-    gap: 5%;
+    gap: 10%;
 }
 #pic{
   background-color: turquoise; 
@@ -33,10 +33,10 @@ padding: 15px 40px;
 
 }
 .inputs{
-padding-top: 20%;
+padding-top: 10%;
 width: 20%;
 padding-right:5px;
-margin-left: 25%;
+margin-left: 35%;
     
    
 }  
@@ -64,6 +64,29 @@ margin-left: 25%;
 #click{
     border-radius: 12px;
     background-color: cyan;
-    margin-left: 25%;
-    padding: 12px 20px;   
+    margin-left: 45%;
+    padding: 12px 20px; 
+    text-decoration: none;  
 }
+#myInput{
+ border-radius: 12px;
+ padding: 10px 30px;
+ width: 120%;   
+}
+#addBtn {
+    border-radius: 12px;
+    padding: 10px 30px;
+    width: 120%;  
+}
+#logo{
+width: 100px;    
+}
+
+    
+        
+   
+  
+   
+    
+   
+   

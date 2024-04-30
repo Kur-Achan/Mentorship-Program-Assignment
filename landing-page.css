@@ -1,7 +1,7 @@
-.topnav{
-    display: flex;
-    margin-left: 25%;
-    gap: 5%;
+
+.menu{
+margin-left: 15%; 
+gap: 15%;   
 }
 #pic{
   background-color: turquoise; 
@@ -16,14 +16,7 @@
     font-size: medium;
 
 }
-#goals{
-    color:beige;
-    background-color:teal;
-    padding: 15px 40px;
-    font-size: medium;
 
-
-}
 #todo{
 color: aliceblue;
 background-color: blue;
@@ -31,24 +24,61 @@ padding: 15px 40px;
     font-size: medium;
 
 }
+
 .landing{
     text-align: center;
     padding-top: 10%;
     margin-right: 25%;
 }
 #explore{
-    color: hotpink;
+    color: rgb(240, 13, 127);
     font-size: x-large;
+    margin-left: 30%;
     
 }
 #welcome{
-    color: skyblue;
+    color: rgb(47, 130, 232);
     font-size: xx-large;
+    margin-left: 30%;
     
 }
 #click{
     border-radius: 12px;
     background-color: cyan;
-    margin-left: 25%;
-    padding: 12px 20px;   
+    margin-left: 48%;
+    padding: 12px 20px; 
+    text-decoration: none;  
+}
+#logo{
+    width: 100px;
+    margin-left: -340%;
+}
+#lady{
+    flex-direction: column;
+    width: 350px;
+    height: 350px;
+   }
+
+
+ 
+ 
+@media screen and (min-width: 320px) {
+.topnav{
+flex-direction: column;    
+}
+
+#ladies{
+ flex-direction: column;
+ width: 100px;
+ height: 100px;
+}
+}
+
+@media screen and (max-width:720px) {
+ #ladies{
+    width: 100px;
+ } 
+ .topnav{
+    flex-direction: column;    
+    }  
 }
