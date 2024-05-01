@@ -30,7 +30,7 @@
 
 
 #pin1{
-    border-radius: 12px;
+    border-radius: 18px;
     padding: 10px 30px;
     width: 50%;
 }
@@ -71,10 +71,11 @@
 }
 #button{
   background-color: rgb(6, 6, 138);
-  border-radius: 12px;
+  border-radius: 18px;
   color: white;
   margin-top: 5%;
-  margin-left: 10%;
+  margin-left: 2%;
+  width: 300px;
 }
 @media screen and (min-width: 200px) and (max-width:600px) {
   .account{
