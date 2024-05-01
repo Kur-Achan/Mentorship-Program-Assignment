@@ -69,10 +69,90 @@
   padding: 10px 30px;
   width: 50%;
 }
-#btn2{
+#buton{
   background-color: blue;
   border-radius: 12px;
   color: white;
   margin-top: 5%;
   margin-left: 10%;
+}
+@media screen and (min-width: 200px) and (max-width:600px) {
+  .account{
+  
+    border: solid 0px;
+   width: 35%;
+  padding-left:20%;
+justify-content: center; 
+align-items: center;
+margin-left: 5%;
+margin-top: 5%;
+
+ }
+ .form{
+   margin-left: 18%;
+   
+ }
+  .input{
+ 
+  width: 50%;
+  border-radius: 5px;
+  border:solid 1px;
+  padding: 0px 35%;
+  margin-left: 5px;
+  
+}
+/* input label{
+ margin-left: 80px;
+ justify-content: center;
+ align-items: center;
+} */
+
+
+#pin1{
+   border-radius: 12px;
+   padding: 10px 30px;
+   width: 50%;
+}
+#pin2{
+ border-radius: 12px;
+ padding: 10px 30px;
+ width: 50%;
+}
+#pin3{
+ border-radius: 12px;
+ padding: 10px 30px;
+ width: 50%;
+}
+#pin4{
+ border-radius: 12px;
+ padding: 10px 30px;
+ width: 50%;
+}
+#pin5{
+ border-radius: 12px;
+ padding: 10px 30px;
+ width: 50%;
+}
+#pin6{
+ border-radius: 12px;
+ padding: 10px 30px;
+ width: 50%;
+}
+#pin7{
+ border-radius: 12px;
+ padding: 10px 30px;
+ width: 50%;
+}
+#pin1{
+ border-radius: 12px;
+ padding: 10px 30px;
+ width: 50%;
+}
+#buton{
+ background-color: blue;
+ border-radius: 12px;
+ color: white;
+ margin-top: 5%;
+ margin-left: 10%;
+} 
 }
