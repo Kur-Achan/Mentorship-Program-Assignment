@@ -59,6 +59,7 @@ padding: 15px 40px;
     color: rgb(47, 130, 232);
     font-size: xx-large;
     margin-left: 30%;
+    margin-top: -10%;
     
 }
 #click{
@@ -75,6 +76,11 @@ width: 5%;
     flex-direction: column;
     width: 350px;
     height: 350px;
+   }
+   .advert{
+    margin-left: 25%;
+    gap: 15%;
+    margin-top: 5%;
    }
 
 
