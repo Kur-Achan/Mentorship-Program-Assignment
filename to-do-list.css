@@ -4,6 +4,21 @@
     margin-right: 25%;
     gap: 10%;
 }
+.navbar6{flex: 1;
+    text-align: center;
+    margin-left: 100px;
+}
+nav ul{
+   display: inline-block;
+   list-style-type: none;
+}
+nav ul li{
+    display: inline-block;
+    margin-right: 20px;}
+a{
+        text-decoration: none;
+        color: #380232;
+}
 #pic{
   background-color: turquoise; 
   color: aliceblue;

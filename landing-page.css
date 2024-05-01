@@ -1,7 +1,25 @@
 
-.header{
+.header5{
  margin-left: 35%;
- gap: 15%;   
+ margin-top: -3%;
+ gap: 10%;  
+}
+.header5{flex: 1;
+    text-align: center;
+    margin-left: 15%;
+    gap: 10%;
+}
+nav ul{
+   display: inline-block;
+   list-style-type: none;
+}
+nav ul li{
+    display: inline-block;
+    margin-right: 20px;}
+    
+a{
+        text-decoration: none;
+        color: #4c0837;
 }
 
 #pic{

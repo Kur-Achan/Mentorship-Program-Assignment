@@ -3,3 +3,30 @@
     
 
 }
+#crime{
+margin-left: 15%;
+  
+}
+@media screen and (min-width: 100px) and (max-width:200px) {
+    .born{
+        margin-left: 5%;
+        
+    
+    }
+}
+    #crime{
+    margin-left: 10%;
+}
+
+
+
+@media screen and (min-width: 200px) and (max-width:300px) {
+    born{
+        margin-left: 25%;
+        
+    
+    }
+    #crime{
+    margin-left: 10%;    
+}
+}

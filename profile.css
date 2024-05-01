@@ -5,6 +5,22 @@
     gap: 10%;
     padding-bottom: 5%;
     margin-bottom: 5%;
+    text-decoration: none;
+}
+.navbar1{flex: 1;
+    text-align: center;
+    margin-left: 100px;
+}
+nav ul{
+   display: inline-block;
+   list-style-type: none;
+}
+nav ul li{
+    display: inline-block;
+    margin-right: 20px;}
+a{
+        text-decoration: none;
+        color: #410440;
 }
 #pic{
   background-color: turquoise; 
