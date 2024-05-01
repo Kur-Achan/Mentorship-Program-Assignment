@@ -100,20 +100,21 @@ width: 100px;
  border-radius: 12px;   
 }
 .inputs{
- background-color: white; 
+ background-color: rgb(204, 196, 210); 
  padding-bottom: 15%;
  margin-right: 15%;
  width: 35%;
  height: 15%;
  padding-left: 13%;
  margin-left:25% ;
+ font-size: medium;
 }
 #title{
 margin-left: 10%;    
 }
 #see{
  border-radius:10px;
- background-color: blueviolet;
+ background-color: rgb(110, 8, 206);
  color: aliceblue; 
 }  
  @media screen and (min-width: 200px) and (max-width:600px) {
