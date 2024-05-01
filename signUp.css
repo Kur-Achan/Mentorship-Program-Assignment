@@ -20,6 +20,7 @@
    border:solid 1px;
    padding: 0px 35%;
    margin-left: 5px;
+   background-color: rgb(204, 197, 211);
    
 }
 /* input label{
@@ -74,8 +75,9 @@
   border-radius: 18px;
   color: white;
   margin-top: 5%;
-  margin-left: 2%;
+ 
   width: 300px;
+  padding: 10px 22px;
 }
 @media screen and (min-width: 200px) and (max-width:600px) {
   .account{
