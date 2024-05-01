@@ -81,6 +81,120 @@ margin-left: 35%;
 #logo{
 width: 100px;    
 }
+#wink{
+ border-radius: 12px;   
+}
+.inputs{
+ background-color: antiquewhite; 
+ padding-bottom: 15%;
+ margin-right: 15%;
+ width: 35%;
+ height: 15%;
+ padding-left: 13%;
+ margin-left:25% ;
+}
+#title{
+margin-left: 10%;    
+}
+#see{
+ border-radius:10px;
+ background-color: blueviolet;
+ color: aliceblue; 
+}  
+ @media screen and (min-width: 200px) and (max-width:600px) {
+    .navbar6{
+        flex-direction: column;
+        margin-right: 25%;
+        gap: 10%;
+        margin-left: 35%;
+    }
+    #pic{
+      background-color: turquoise; 
+      color: aliceblue;
+      padding: 15px 40px;
+        font-size: medium;
+     
+    }
+    #achieve{
+        color: aliceblue;
+        background-color: blue;
+        padding: 15px 40px;
+        font-size: medium;
+    
+    }
+    #goals{
+        color:beige;
+        background-color:teal;
+        padding: 15px 40px;
+        font-size: medium;
+    
+    }
+    #todo{
+    color: aliceblue;
+    background-color: blue;
+    padding: 15px 40px;
+        font-size: medium;
+    
+    }
+    .inputs{
+    padding-top: 10%;
+    width: 20%;
+    padding-right:5px;
+    margin-left: 35%;
+        
+       
+    }  
+    #box1{
+        border-radius: 12px;
+        padding: 10px 30px;
+        width: 120%;
+    }
+    #box2{
+        border-radius: 12px;
+        padding: 10px 30px;
+        width: 120%;
+    }
+    #box3{
+        border-radius: 12px;
+        padding: 10px 30px;
+        width: 120%;
+    }
+    #task4{
+        border-radius: 12px;
+        padding: 10px 30px;
+        width: 120%;
+        
+    }
+    #click{
+        border-radius: 12px;
+        background-color: cyan;
+        margin-left: 45%;
+        padding: 12px 20px; 
+        text-decoration: none;  
+    }
+    #logo{
+        width: 100px;    
+        }
+        #wink{
+         border-radius: 12px;   
+        }
+        .inputs{
+         background-color: antiquewhite; 
+         padding-bottom: 15%;
+         margin-right: 15%;
+         width: 35%;
+         height: 15%;
+         padding-left: 15%;
+         margin-left:20% ;
+        }
+        #title{
+        margin-left: 10%;    
+        }  
+    
+ }
+   
+   
+
 
     
         

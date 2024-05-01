@@ -130,7 +130,7 @@ color: aliceblue;
   
 }@media screen and (min-width: 200px) and (max-width:600px) {
   .navbar3{
-    flex-wrap: wrap;
+    flex-direction: column;
     margin-left: 25%;
     gap: 10%;
     margin-bottom: 15%;
@@ -216,7 +216,7 @@ width: 50%;
   }
   #logo{
     width: 100px;
-    margin-left: -380%;
+    margin-left: 15%;
   }
 
 .short{
